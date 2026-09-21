@@ -1,12 +1,9 @@
-# Simple Calculator
+Simple Calculator
 
-A simple Java console calculator that performs basic arithmetic operations.
+A console-based calculator that performs basic arithmetic operations using two numbers and a selected operator.
 
-### Built with
-- Java
-- IntelliJ IDEA
+The program validates the selected operation and handles division by zero by requesting a valid second number.
 
-### Version
-v1.0
+Concepts Practiced
 
-> First version — built while learning Java fundamentals.
+Scanner · Variables · if/else · switch · while · break · Input Validation
